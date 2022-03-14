@@ -1,0 +1,10 @@
+C:\Users\aid27\RiderProjects\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.exe
+C:\Users\aid27\RiderProjects\MediaLibrary\MediaLibrary\bin\Debug\MediaLibrary.pdb
+C:\Users\aid27\RiderProjects\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.AssemblyReference.cache
+C:\Users\aid27\RiderProjects\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\aid27\RiderProjects\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aid27\RiderProjects\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.exe
+C:\Users\aid27\RiderProjects\MediaLibrary\MediaLibrary\obj\Debug\MediaLibrary.pdb
+C:\Users\aid27\RiderProjects\MediaLibrary\MediaLibrary\bin\Debug\Files\shows.csv
+C:\Users\aid27\RiderProjects\MediaLibrary\MediaLibrary\bin\Debug\Files\movies.csv
+C:\Users\aid27\RiderProjects\MediaLibrary\MediaLibrary\bin\Debug\Files\videos.csv
